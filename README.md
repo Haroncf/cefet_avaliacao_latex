@@ -5,3 +5,11 @@ Template Editado/Adaptado do IFPR - Paranavaí
 
 * **Azuaite Aramis Schneider** (Original)
 * **Haron Calegari Fanticelli** (Edição)
+
+### Overleaf Gallery:
+
+Sem Link Ainda
+
+### Github Repository:
+
+[Avaliacao_Latex](https://github.com/Haroncf/cefet_avaliacao_latex)
